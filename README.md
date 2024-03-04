@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wadshah
-- 👀 I’m interested in Ethical Hcking and Cyber Security
-- 🌱 I’m currently persuing B.Tech in Computer Science with specialization in Cyber Security
-- 📫 How to reach me +91 7876109885
+- 👀 I’m interested in Ethical Hacking and Cyber Security
+- 🌱 I’m currently pursuing B.Tech in Computer Science with a specialization in Cyber Security
+- 📫 How to reach me wadshahg13139@gmail.com
 - Repos I own 
 :Wadshah/Phishing-Detection-and-Email-Spam-Detection
 :Wadshah/Python-Tools
